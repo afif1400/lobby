@@ -40,12 +40,8 @@
 
 ## Contributions
 
-DogeHouse is open to contributions, but I recommend creating an issue or replying in a comment to let me know what you are working on first that way we don't overwrite each other.
-
-Please read [CONTRIBUTING.md](https://github.com/benawad/dogehouse/blob/staging/CONTRIBUTING.md)
-
-## Coderoyale Lobby
--- Add content
+CodeRoyale-lobby is open to contributions, but I recommend creating an issue for letting us know about the feature you are working upon.
+Please read [CONTRIBUTING.md](link)
 
 ## Reviewers
 
@@ -58,11 +54,9 @@ Contributors helping to review/merge pull requests:
 - [@SAchu47](https://github.com/SAchu47)
 - [@Rec0iL99](https://github.com/Rec0iL99)
 
-
-
 ## Code of Conduct
 
-Please read [CODE_OF_CONDUCT.md](https://github.com/benawad/dogehouse/blob/staging/CODE_OF_CONDUCT.md) for details on our code of conduct.
+Please read [CODE_OF_CONDUCT.md](link) for details on our code of conduct.
 
 ## How to run locally
 
